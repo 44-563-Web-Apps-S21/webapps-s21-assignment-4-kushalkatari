@@ -1,8 +1,31 @@
-.p
+p,h6
 {
-    font-family: "Times New Roman", Times, serif;
-    <p style="color:DodgerBlue;>
-    height: 200px;
-  width: 50%;
+    font-family: "Times New Roman";
+    color:Black;
+   font-size:medium;
+}
+p
+{
+  background-color: aqua;  
+}
 
+p:hover
+{
+    background-color: aliceblue;   
+    color: blue;
+}
+
+.KING
+{
+color: brown;
+}
+
+.FIRST-LORD
+{
+color: rgb(38, 134, 70);
+}
+
+.SECOND-LORD
+{
+color: darkgoldenrod;
 }
