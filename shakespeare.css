@@ -29,3 +29,19 @@ color: rgb(38, 134, 70);
 {
 color: darkgoldenrod;
 }
+table,th,td
+{
+    border-style: dashed;
+    border-collapse: collapse;
+    width: 50%;
+    border:darkgreen;
+    color: darkgreen;
+    text-align: center;
+    margin: 2px;
+    padding: 10px;
+    
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
