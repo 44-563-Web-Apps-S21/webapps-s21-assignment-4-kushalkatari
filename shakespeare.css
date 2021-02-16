@@ -1,15 +1,15 @@
-p,h6
+.speech-direction,.KING,.FIRST-LORD,.SECOND-LORD
 {
     font-family: "Times New Roman";
     color:Black;
    font-size:medium;
 }
-p
+.speech-direction
 {
   background-color: aqua;  
 }
 
-p:hover
+p.speech-direction:hover
 {
     background-color: aliceblue;   
     color: blue;
@@ -30,10 +30,7 @@ color: rgb(38, 134, 70);
 color: darkgoldenrod;
 }
 
-.BERTRAM
-{
-    color: darksalmon;
-}
+
 table,th,td
 {
     border-style: dashed;
@@ -50,5 +47,25 @@ table,th,td
 tr:nth-child(even) {
     background-color: #f2f2f2;
   }
+
+  
+p.KING,.BERTRAM:hover
+{
+color: dodgerblue;
+box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+  
+.page2
+{
+  background-color: aqua;  
+}
+.KING1
+{
+color: brown;
+}
+.BERTRAM
+{
+    color: darksalmon;
+}
 
   
