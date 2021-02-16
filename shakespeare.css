@@ -29,6 +29,11 @@ color: rgb(38, 134, 70);
 {
 color: darkgoldenrod;
 }
+
+.BERTRAM
+{
+    color: darksalmon;
+}
 table,th,td
 {
     border-style: dashed;
@@ -45,3 +50,5 @@ table,th,td
 tr:nth-child(even) {
     background-color: #f2f2f2;
   }
+
+  
